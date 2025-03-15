@@ -48,7 +48,6 @@
         container.style.padding = '20px';
         container.style.border = '1px solid #ccc';
         container.style.borderRadius = '5px';
-        container.style.backgroundColor = '#f9f9f9';
 
         // Create and append settings panel
         container.appendChild(createSettingsPanel());
