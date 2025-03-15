@@ -44,8 +44,8 @@
 
         var container = document.createElement('div');
         container.className = 'forks-viewer-container';
-        container.style.margin = '60px 20px 20px';
-        container.style.padding = '20px';
+        container.style.margin = '5px 5px 5px';
+        container.style.padding = '10px';
         container.style.border = '1px solid #ccc';
         container.style.borderRadius = '5px';
 
