@@ -4,6 +4,8 @@
 
 GitHub Forks Explorer is a userscript enhancing GitHub repository pages by adding a table displaying a sorted and filtered overview of related forks. This script allows you to easily view and compare forks based on various criteria such as stars, watchers, forks, and open issues.
 
+<img src="example.png" alt="example" />
+
 ## Features
 
 - **Sort**: View forks sorted by different criteria (watchers, stars, age).
